@@ -1,0 +1,4 @@
+name = "mai-reverse-proxy"
+type = "javascript"
+compatibility_date = "2025-08-01"
+workers_dev = true
