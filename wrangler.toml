@@ -1,4 +1,4 @@
-name = "mistral-reverse-proxy"
+name = "mistral"
 main = "worker.js"
 compatibility_date = "2025-08-01"
 workers_dev = true
